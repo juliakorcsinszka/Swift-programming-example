@@ -1,9 +1,3 @@
-//
-//  InformationViewController.swift
-//
-//  Created by Julia Korcsinszka
-//  Copyright © 2017 Julia Korcsinszka. All rights reserved.
-//
 
 import UIKit
 import CoreData
