@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Assignment_2
-//
-//  Created by Julia Korcsinszka on 11/12/2017.
-//  Copyright © 2017 Julia Korcsinszka. All rights reserved.
-//
+
 
 import UIKit
 import CoreData
